@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MatrixUtil {
         static {
-            System.load("/home/huy/Desktop/Matrix_prj/JCallC/lib.so");
+            System.load("/home/huy/Desktop/Matrix_prj/Java-Call-C/lib.so");
         }
 
     native int[][] multiply(int[][] arr1, int[][] arr2);
