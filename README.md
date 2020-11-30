@@ -7,7 +7,7 @@
     static 
     {
     
-            System.load("/<path/to/repository>/Matrix_prj/JCallC/lib.so");
+            System.load("/<path/to/repository>/Matrix_prj/Java-Call-C/lib.so");
    
    }
         
